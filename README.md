@@ -4,7 +4,7 @@
 
 - 📫 How to reach me? DONT
 - 😄 Pronouns: He/him
-  - ⚡ Fun fact: Meow + Owl + eye(ei) = MeOwlei
+- ⚡ P.S.: MeOwlei is a alias name, my real name is Anshit
 
 <!---
 MeOwlei/MeOwlei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
